@@ -9,11 +9,9 @@
   <br />
   <br />
 
-  <h2 align="center">Wren - Personal Blog Website</h2>
+  <h2 align="center">Static Blog</h2>
 
-  Wren is a fully responsive personal blog website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/wren/"><strong>➥ Live Demo</strong></a>
+  It is a fully responsive personal blog website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
 </div>
 
